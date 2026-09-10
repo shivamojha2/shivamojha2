@@ -1,3 +1,3 @@
 Hi, I’m Shivam 👋 \
-I’m a master's student at Columbia University, specialising in Machine Learning and Data Science. \
+I’m a Research Engineer specializing in LLM post-training, optimization, agentic AI systems, and scalable ML infrastructure. \
 You can reach me on shivam.ojha@columbia.edu
